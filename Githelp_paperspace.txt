@@ -1,0 +1,9 @@
+Git help
+
+git status
+git add file
+git commit
+
+#Editor in paperspace!
+Type something
+leave with strg k and x
