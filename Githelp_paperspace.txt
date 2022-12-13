@@ -7,3 +7,5 @@ git commit
 #Editor in paperspace!
 Type something
 leave with strg k and x
+
+git push
